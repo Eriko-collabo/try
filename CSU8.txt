@@ -1,0 +1,1 @@
+inverse={'27': ['Mai', 'Ken'], 'active': ['Mai', 'Ken', 'Ai'], 'Camping': ['Mai', 'Ai'], '38': ['Belle'], 'shy': ['Belle', 'Mike', 'Ryo'], 'watching TV': ['Belle', 'Ken', 'Mike', 'Ryo'], '35': ['Mike'], '29': ['Ryo'], '43': ['Ai']}
